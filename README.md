@@ -1,4 +1,4 @@
-# Python-ML
+# Data Science with Python (first projects):
 Some machine learning and time series projects with Python. It will include supervised and unsupervised algorithms, time series analysis, or connections with SQL and NoSQL databases, among others.
 
 Index:
