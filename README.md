@@ -11,4 +11,4 @@ Index:
 
 4-4-Data Cleaning and Modeling for a Linear Regression
 
-5-Linear Regression for Forecasting (Time Series Data)
+5-Linear Regression for Time Series Data Forecasting (extracted from a MongoDB Database)
