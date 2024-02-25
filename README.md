@@ -9,6 +9,6 @@ Index:
 
 3-Clustering (KNN)
 
-4-Data Modelling and pipelines
+4-Data Modelling and creation of a Pipeline with OneHotEncoder
 
-5-Time series (AR models) extracting data from MongoDB
+5-Linear Regression for Forecasting (Time Series Data)
