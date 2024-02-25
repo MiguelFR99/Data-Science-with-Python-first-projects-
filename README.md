@@ -9,6 +9,6 @@ Index:
 
 3-Clustering (KNN)
 
-4-Data Modelling and creation of a Pipeline with OneHotEncoder
+4-4-Data Cleaning and Modeling for a Linear Regression
 
 5-Linear Regression for Forecasting (Time Series Data)
